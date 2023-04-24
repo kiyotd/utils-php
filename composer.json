@@ -1,6 +1,5 @@
 {
   "name": "kiyotd/utils",
-  "version": "0.1.0",
   "description": "PHP Utilities `kiyotd/utils` for PHP 7.4 and above",
   "type": "library",
   "license": "MIT",
