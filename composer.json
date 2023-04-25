@@ -2,9 +2,27 @@
   "name": "kiyotd/utils",
   "description": "PHP Utilities `kiyotd/utils` for PHP 7.4 and above",
   "type": "library",
+  "keywords": [],
+  "homepage": "https://github.com/kiyotd/utils-php",
   "license": "MIT",
+  "authors": [
+    {
+      "name": "kiyotd"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/kiyotd/utils-php/issues"
+  },
+  "prefer-stable": true,
   "require": {
     "php": ">=7.4"
+  },
+  "config": {
+    "platform": {
+      "php": "7.4"
+    },
+    "optimize-autoloader": true,
+    "sort-packages": true
   },
   "require-dev": {
     "phpunit/phpunit": "^9.6"
